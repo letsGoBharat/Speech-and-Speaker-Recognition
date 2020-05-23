@@ -53,4 +53,6 @@ MANIFEST
 # Installer logs
 pip-log.txt
 
+#Dataset
+tidigits/
 
